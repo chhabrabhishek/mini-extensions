@@ -1,0 +1,20 @@
+.dashboardParentContainer {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoutButton {
+    position: fixed;
+    top: 2%;
+    right: 2%;
+}
+
+.classListContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
